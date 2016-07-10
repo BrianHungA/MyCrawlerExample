@@ -31,7 +31,7 @@
               </program>
               <program>
                   <mainClass>crawler.example.integration.PM25</mainClass>
-                  <id>pm25ElasticImport</id>
+                  <id>pm25</id>
               </program>
             </programs>
           </configuration>
