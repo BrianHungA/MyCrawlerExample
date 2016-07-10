@@ -30,7 +30,7 @@
                 <id>yahooStock</id>
               </program>
               <program>
-                  <mainClass>crawler.example.integration.PM25ElasticImport</mainClass>
+                  <mainClass>crawler.example.integration.PM25</mainClass>
                   <id>pm25ElasticImport</id>
               </program>
             </programs>
